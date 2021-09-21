@@ -7,7 +7,7 @@ I'm from Israel, living in Tel-Aviv.<br>
 You can find me on [Twitter](https://twitter.com/Amir2man), or on [Linkedin](https://www.linkedin.com/in/amirsht/).<br>
 
 #### :office_worker:	Work:
-I currently I enjoy working for Cynet, doing some very interesting stuff with event streaming and microservices (mainly in .Net).<br>
+I currently enjoy working for Cynet, doing some very interesting stuff with event streaming and microservices (mainly in .Net).<br>
 
 #### :writing_hand: Blog & Writing:
 Apart from coding, I also maintain a tech-blog (in Hebrew) - you can find my articles on my website [CodeTime.co.il](https://www.codetime.co.il)<br>
