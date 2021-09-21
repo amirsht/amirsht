@@ -6,7 +6,7 @@ Interested in ood, design patterns, backend development, large scale application
 I'm from Israel, living in Tel-Aviv.<br>
 You can find me on [Twitter](https://twitter.com/Amir2man), or on [Linkedin](https://www.linkedin.com/in/amirsht/).<br>
 
-#### :office_worker:	
+#### :office_worker:	Work:
 I currently I enjoy working for Cynet, doing some very interesting stuff with event streaming and microservices (mainly in .Net).<br>
 
 #### :writing_hand: Blog & Writing:
