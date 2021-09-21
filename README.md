@@ -1,7 +1,7 @@
 # Hello, folks! 👋 <br>
 
 
-Hi. I’m Amir. I'm a software engineer and a tech-blogger.<br>
+I’m Amir, a software engineer and a tech-blogger.<br>
 Interested in ood, design patterns, backend development, large scale application(server side wise), multi threaded technologies and concepts, big data and cloud technologies.<br>
 I'm from Israel, living in Tel-Aviv.<br>
 You can find me on [Twitter](https://twitter.com/Amir2man), or on [Linkedin](https://www.linkedin.com/in/amirsht/).<br>
