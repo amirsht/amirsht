@@ -1,17 +1,6 @@
 # Hello world! 👋 <br>
 
 
-Nice to meet, kind of, Amir Shtaiman, a software engineer and a tech-blogger.<br>
-Interested in backend technologies, ood, design patterns, backend development, large scale application(server side wise), multi threaded technologies and concepts, big data and cloud technologies.<br>
-Located in Tel Aviv, Israel<br>
-You can find me on [Twitter](https://twitter.com/Amir2man), or on [Linkedin](https://www.linkedin.com/in/amirsht/).<br>
-
-#### :office_worker:	Work:
-I currently enjoy working for Cynet, doing some very interesting stuff with event streaming and microservices (mainly in .Net).<br>
-
-#### :writing_hand: Blog & Writing:
-Apart from coding, I also maintain a tech-blog (in Hebrew) - you can find my articles on my website [CodeTime.co.il](https://www.codetime.co.il)<br>
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Rider-informational?style=flat&logo=Rider&logoColor=white&color=2bbc8a)
